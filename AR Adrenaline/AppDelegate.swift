@@ -1,10 +1,4 @@
 //
-//  AppDelegate.swift
-//  ARKitExample
-//
-//  Created by Evgeniy Antonov on 9/5/17.
-//  Copyright © 2017 RubyGarage. All rights reserved.
-//
 
 import UIKit
 
